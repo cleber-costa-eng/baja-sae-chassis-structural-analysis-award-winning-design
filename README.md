@@ -2,6 +2,11 @@
 
 # Finite Element Analysis (FEA) and Structural Validation of a Baja SAE Chassis
 
+---
+## 📄 Full Thesis Document
+You can access the full technical report (in Portuguese) through the link below:
+[Download Full TCC - PDF](https://repositorio.ufscar.br/items/1847b02a-abcb-4a82-926f-e3908cde95b4)
+
 This repository contains the technical development and structural validation for my **Final Graduation Project (TCC)** in Mechanical Engineering at UFSCar. The project focuses on advanced simulation techniques to ensure the reliability and safety of an off-road vehicle.
 
 ## 🛠 Project Overview
