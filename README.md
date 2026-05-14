@@ -14,7 +14,7 @@ This repository contains the technical development and structural validation for
 The objective was to perform a complete structural audit and optimization of a Baja SAE roll cage. By integrating field-acquired data with advanced simulation software, I was able to predict fatigue life and validate the chassis under extreme operational conditions.
 
 ### Key Technical Contributions:
-* **Real-World Load Acquisition:** Utilized proprietary telemetry software from the UFSCar Baja Team to capture dynamic loads during field tests, ensuring that the boundary conditions for the FEA were based on actual physical data.
+* **Simulated Load Acquisition:** Utilized proprietary software from the UFSCar Baja Team to generate dynamic loads, ensuring that the boundary conditions for the FEA were based on representative data.
 * **Structural Optimization:** Conducted iterative simulations to balance the trade-off between weight reduction and structural stiffness.
 * **Academic Excellence:** Developed at the Federal University of São Carlos (UFSCar), one of Brazil's leading engineering institutions.
 
