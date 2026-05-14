@@ -1,6 +1,6 @@
-# baja-sae-chassis-structural-analysis-designFinite Element Analysis (FEA) and Structural Validation of a Baja SAE Chassis
+# baja-sae-chassis-structural-analysis-designFinite Element Analysis (FEA) and Structural Validation of a Baja SAE components
 
-# Finite Element Analysis (FEA) and Structural Validation of a Baja SAE Chassis
+# Finite Element Analysis (FEA) and Structural Validation of a Baja SAE suspension components
 
 ---
 ## 📄 Full Thesis Document
